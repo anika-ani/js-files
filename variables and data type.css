@@ -1,0 +1,33 @@
+button{
+    background-color: #7ee281; /* Green */
+    color: rgb(141, 39, 39);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+div{
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: #333;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: Arial, sans-serif;
+    color: #555;
+    line-height: 1.6;
+    margin: 10px 0;
+}
